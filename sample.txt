@@ -1,1 +1,3 @@
 my first file
+
+I am editing in git itself
